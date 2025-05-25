@@ -10,8 +10,6 @@
 
 ## 🇹🇷 Hakkımda / About Me 🇬🇧
 
-🎓 3. sınıf Bilgisayar Mühendisliği öğrencisiyim.  
-  🎓 I'm a 3rd year Computer Engineering student. 
 - ⚛️ React, JavaScript ve CSS ile çalışıyorum.  
   ⚛️ I work with React, JavaScript, and CSS.  
 - 🧶 Öğrenmeye aç biriyim:  
