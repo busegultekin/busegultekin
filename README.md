@@ -59,7 +59,7 @@
 
 <p align="center">
   <a href="busegltkn12@gmail.com">📧 Mail</a> |
-  <a href="https://linkedin.com/in/busegultekinnn">🔗 LinkedIn</a> |
+  <a href="https://linkedin.com/in/buse-gultekinnn">🔗 LinkedIn</a> |
 </p>
 
 ---
