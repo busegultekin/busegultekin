@@ -1,19 +1,23 @@
 <h1 align="center">Merhaba, ben Buse! / Hi there, I'm Buse! 👋</h1>
 
 <p align="center">
-  👩‍💻 Bilgisayar Mühendisliği öğrencisiyim <br>
-  💙 Frontend ve React geliştiricisiyim <br>
-  🐈 Kedi sever, kod yazar, kahve içerim ☕
+  👩‍💻 Bilgisayar Mühendisliği öğrencisiyim | I'm a Computer Engineering student<br>
+  💙 Frontend ve React geliştiricisiyim | Frontend & React developer<br>
+  🐈 Kedi sever, kod yazar, kahve içerim ☕| Cat lover, code writer, coffee drinker
 </p>
 
 ---
 
 ## 🇹🇷 Hakkımda / About Me 🇬🇧
 
-- 🎓 Balıkesir Üniversitesi'nde 3. sınıf öğrencisiyim.  
-- ⚛️ React, JavaScript ve CSS ile ilgileniyorum.  
-- 🧶 Her şeyi öğrenmek isteyen ama zamanla yarışan biri:
-- **"Bildiğim tek şey hiçbir şey bilmediğimdir." - Sokrates**  
+🎓 3. sınıf Bilgisayar Mühendisliği öğrencisiyim.  
+  🎓 I'm a 3rd year Computer Engineering student. 
+- ⚛️ React, JavaScript ve CSS ile çalışıyorum.  
+  ⚛️ I work with React, JavaScript, and CSS.  
+- 🧶 Öğrenmeye aç biriyim:  
+  🧶 I’m always hungry to learn:  
+  > “Bildiğim tek şey hiçbir şey bilmediğimdir.” – Sokrates  
+  > “The only true wisdom is in knowing you know nothing.” – Socrates 
 - 🧩 Şu an öğreniyorum:
 - **TypeScript**, **Tailwind CSS**
 
@@ -33,10 +37,10 @@
 
 ---
 
-## 🐾 Mood of the Day: Kedi + Kod 🐾
+## 🐾 Bugünkü Modum | Today's Mood
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" />
 </p>
 
 ---
@@ -72,6 +76,7 @@
 
 ---
 
-> Not: Kediler kod yazmaz, ama klavyede sizden hızlı yürürler.
+> Not: Kediler kod yazmaz, ama klavyede sizden hızlı yürürler. 😸
+> Note: Cats don’t write code, but they walk across the keyboard faster than you. 😸
 
 
