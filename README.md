@@ -10,14 +10,10 @@
 
 ## 🇹🇷 Hakkımda / About Me 🇬🇧
 
-- ⚛️ React, JavaScript ve CSS ile çalışıyorum.  
-  ⚛️ I work with React, JavaScript, and CSS.  
 - 🧶 Öğrenmeye aç biriyim:  
   🧶 I’m always hungry to learn:  
   > “Bildiğim tek şey hiçbir şey bilmediğimdir.” – Sokrates  
   > “The only true wisdom is in knowing you know nothing.” – Socrates 
-- 🧩 Şu an öğreniyorum:
-- **TypeScript**, **Tailwind CSS**
 
 > “Sometimes I debug my life like I debug code: Console.log everything and hope for a miracle.” 😂
 
@@ -30,12 +26,14 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </p>
 
 ---
 
-## 🐾 Bugünkü Modum | Today's Mood
+## 🐾 Bugünkü Modum | Today's Mood !!!
 
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" />
@@ -74,7 +72,7 @@
 
 ---
 
-> Not: Kediler kod yazmaz, ama klavyede sizden hızlı yürürler. 😸
+> Not: Kediler kod yazmaz, ama klavyede sizden hızlı yürürler. 😸<br>
 > Note: Cats don’t write code, but they walk across the keyboard faster than you. 😸
 
 
