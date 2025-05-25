@@ -12,7 +12,6 @@
 
 - 🎓 Balıkesir Üniversitesi'nde 3. sınıf öğrencisiyim.  
 - ⚛️ React, JavaScript ve CSS ile ilgileniyorum.  
-- 📚 Arada bir felsefe kitaplarıyla kafayı yakarım.  
 - 🧶 Her şeyi öğrenmek isteyen ama zamanla yarışan biri:
 - **"Bildiğim tek şey hiçbir şey bilmediğimdir." - Sokrates**  
 - 🧩 Şu an öğreniyorum:
