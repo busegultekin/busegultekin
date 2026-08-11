@@ -114,9 +114,9 @@ The platform combines multiple artificial intelligence and software technologies
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=busegultekin&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=busegultekin&theme=tokyonight"/>
 
-<img width="48%" src="https://streak-stats.demolab.com/?user=busegultekin&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img width="48%" src="https://streak-stats.demolab.com/?user=busegultekin&theme=tokyonight&hide_border=true"/>
 
 </div>
 
