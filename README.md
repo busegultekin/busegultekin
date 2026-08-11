@@ -130,8 +130,6 @@ The platform combines multiple artificial intelligence and software technologies
 
 </div>
 
----
-
 ## 🌱 Currently Exploring
 
 <div align="center">
