@@ -124,6 +124,8 @@ The platform combines multiple artificial intelligence and software technologies
 
 <div align="center">
 
+<img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=busegultekin&theme=tokyonight"/>
+
 </div>
 
 ## 🌱 Currently Exploring
