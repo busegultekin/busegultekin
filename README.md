@@ -1,78 +1,47 @@
-<h1 align="center">Merhaba, ben Buse! / Hi there, I'm Buse! 👋</h1>
+# Hi there, I'm Buse Gültekin 👋
 
-<p align="center">
-  👩‍💻 Bilgisayar Mühendisliği öğrencisiyim | I'm a Computer Engineering student<br>
-  💙 Frontend ve React geliştiricisiyim | Frontend & React developer<br>
-  🐈 Kedi sever, kod yazar, kahve içerim ☕| Cat lover, code writer, coffee drinker
+Computer Engineering student, deeply passionate about **Machine Learning**, **Data Science**, and **Computer Vision**.
+
+---
+
+### 🚀 About Me
+
+- 🎓 **Education:** Computer Engineering Student
+- 💡 **Focus Areas:** Machine Learning, Deep Learning, Data Mining & Computer Vision
+- 🛠️ **Current Projects:** Developing AI & Computer Vision applications
+- 🎯 **Goals:** Building intelligent, efficient, and data-driven solutions
+- 💬 **Ask me about:** Python, Model Evaluation, Data Preprocessing & Image Processing
+
+---
+
+### 💻 Tech Stack & Tools
+
+#### **Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### **AI, ML & Data Science**
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=busegultekin&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busegultekin&layout=compact&theme=tokyonight" alt="Top Languages" width="350"/>
 </p>
 
 ---
 
-## 🇹🇷 Hakkımda / About Me 🇬🇧
+### 📫 Connect with Me
 
-- 🧶 Öğrenmeye aç biriyim:  
-  🧶 I’m always hungry to learn:  
-  > “Bildiğim tek şey hiçbir şey bilmediğimdir.” – Sokrates  
-  > “The only true wisdom is in knowing you know nothing.” – Socrates 
-
-> “Sometimes I debug my life like I debug code: Console.log everything and hope for a miracle.” 😂
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/buse-gultekinnn)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Buse Gültekin)
 
 ---
-
-## 💻 Kullandığım Araçlar / Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-</p>
-
----
-
-## 🐾 Bugünkü Modum | Today's Mood !!!
-
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" />
-</p>
-
----
-
-## 📊 GitHub İstatistikleri / Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=busegultekin&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busegultekin&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🌐 Sosyal Bağlantılar / Socials
-
-<p align="center">
-  <a href="busegltkn12@gmail.com">📧 Mail</a> |
-  <a href="https://linkedin.com/in/buse-gultekinnn">🔗 LinkedIn</a> |
-</p>
-
----
-
-## 🎭 Bonus
-
-> 🗣️ "Kod yazarken zaman durur... Ama deadline yaklaşırken zaman ışık hızına ulaşır."  
-> — **Bir yazılımcıdan anonim hikmet**  
-
-> 🧠 “Strong minds discuss ideas. Average minds discuss events. Weak minds discuss people.”  
-> — **Sokrates (belki de demedi ama çok havalı)**
-
----
-
-> Not: Kediler kod yazmaz, ama klavyede sizden hızlı yürürler. 😸<br>
-> Note: Cats don’t write code, but they walk across the keyboard faster than you. 😸
-
-
